@@ -171,7 +171,7 @@
         <mxCell id="zAj_Ilh3aJi94rQSx1cW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zAj_Ilh3aJi94rQSx1cW-22" target="zAj_Ilh3aJi94rQSx1cW-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zAj_Ilh3aJi94rQSx1cW-22" value="交易队列消费者订阅" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="zAj_Ilh3aJi94rQSx1cW-22" value="失败日志队列消费者订阅" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1570" y="290" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zAj_Ilh3aJi94rQSx1cW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zAj_Ilh3aJi94rQSx1cW-23" target="zAj_Ilh3aJi94rQSx1cW-25" edge="1">
